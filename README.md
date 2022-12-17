@@ -1,7 +1,7 @@
 # Linux Cloud Engineer Bootcamp
 #### Linux Foundation
 
-[Cirriculum](https://drive.google.com/file/d/1lKcb2azxULSIlQVJ9YNCpfJl5ytv187p/view)
+![Cirriculum](https://github.com/jasenc/Linux-Cloud-Engineer-Bootcamp/blob/main/cirriculum.jpg)
 
 I'm not posting notes, but I am posting outline and progress. 
 
